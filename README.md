@@ -12,3 +12,10 @@ If you are intetrested,
 
 Contact me via [mail](mailto:adriano.rutz@unige.ch)
 
+[![Adafede's GitHub stats](https://github-readme-stats.vercel.app/api?username=adafede&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adafede&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+An absolute must read:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lotusnprod&repo=lotus-manuscript&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)

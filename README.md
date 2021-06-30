@@ -20,4 +20,4 @@ Contact me via [mail](mailto:adriano.rutz@unige.ch)
 
 An absolute must read:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lotusnprod&repo=lotus-manuscript&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lotusnprod&repo=lotus-manuscript&show_owner=true)](https://lotusnprod.github.io/lotus-manuscript/)

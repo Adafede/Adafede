@@ -1,5 +1,7 @@
 # Adafede
 
+[![jasineri/gitartwork](gitartwork.svg)](https://github.com/jasineri/gitartwork)
+
 Hi there 👋
 
 I am Adriano. I'm a Natural Products researcher from Switzerland.

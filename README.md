@@ -4,15 +4,15 @@
 
 Hi there 👋
 
-I am Adriano. I'm a Natural Products researcher from Switzerland.
+I am Adriano. I'm a Pharmacist from Switzerland.
 
-I am currently working on methodologies to improve the characterization of the composition of complex extracts from both qualitative and quantitative point of view. More precisely advanced LC-MS based metabolite profiling methods to assess phytochemical and sensorial profiles of plant extracts of industrial interest.
+I am currently working on methodologies to improve the characterization of the composition of complex extracts from both qualitative and quantitative point of view. More precisely mass spectrometry based computational metabolomics.
 
 You can also check my [gitlab](https://gitlab.com/Adafede).
 
 If you are intetrested,
 
-Contact me via [mail](mailto:adriano.rutz@unige.ch)
+Contact me via [mail](mailto:rutz@imsb.biol.ethz.ch)
 
 [![Adafede's GitHub stats](https://github-readme-stats.vercel.app/api?username=adafede&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

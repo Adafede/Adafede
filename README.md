@@ -6,7 +6,7 @@
 
 Hi there 👋
 
-I am Adriano, pharmacist from Switzerland.
+I am Adriano, pharmacologist from Switzerland.
 
 I am currently working on methodologies to improve the characterization of the composition of complex extracts from both qualitative and quantitative point of view using mass spectrometry-based computational metabolomics.
 

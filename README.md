@@ -10,7 +10,7 @@ I am Adriano, pharmaceutical scientist from Switzerland.
 
 I am currently working on methodologies to improve the characterization of the composition of complex extracts from both qualitative and quantitative point of view using mass spectrometry-based computational metabolomics.
 
-If you are intetrested,
+If you are interested,
 
 You can also check my [gitlab](https://gitlab.com/Adafede)
 
